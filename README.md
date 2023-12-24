@@ -9,7 +9,7 @@
 
 ### Check out my portfolio at [Ismayel Alam](http://ismayelalam.com)
 
-<p align="center" style="display: flex; align-items: center; flex-wrap: wrap; justify-content: start; width:100%; gap: 10px">
+<p style="display: flex; align-items: center; gap: 10px">
     <strong>Let's Connect: </strong>
     <a href="https://www.linkedin.com/in/ismayelalam">
         <img src="https://skillicons.dev/icons?i=linkedin" width="35px"/>
