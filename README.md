@@ -1,23 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ismayel Alam</h1>
-<!-- <h2 align="center">Checkout my portfolio at <a href="https://ismayelalam.com/" target="_blank">Ismayel Alam</a></h2> -->
 
-<strong>Passionate freelance full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!</strong>
+**Passionate freelance full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!**
 
 - 🔭 I’m currently working on [Stack Overflow clone](http://stackOverflow.ismayelalam.com)
 - 🌱 I’m currently learning **Rust**
 - 📫 Reach me at **ismayelalam0@gmail.com**
 
-### Check out my portfolio at [Ismayel Alam](http://ismayelalam.com)
+#### Checkout my portfolio at [ Ismayel Alam](http://ismayelalam.com)
 
-<p style="display: flex; align-items: center; gap: 10px">
-    <strong>Let's Connect: </strong>
-    <a href="https://www.linkedin.com/in/ismayelalam">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="35px"/>
-    </a>
-    <a href="https://twitter.com/__ismayelalam__">
-        <img src="https://skillicons.dev/icons?i=twitter" width="35px"/>
-    </a>
-</p>
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ismayelalam) [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/__ismayelalam__/)
 
 ---
 
