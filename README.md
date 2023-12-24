@@ -6,23 +6,23 @@
 - 🌱 I’m currently learning **Rust**
 - 📫 Reach me at **ismayelalam0@gmail.com**
 
-#### Checkout my portfolio at [ Ismayel Alam](http://ismayelalam.com)
+### Check out my portfolio at [ Ismayel Alam](http://ismayelalam.com)
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ismayelalam) [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/__ismayelalam__/)
 
 ---
 
-## My Skills - Technologies I use
+## My Skills
 
-##### Core
+#### Core
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://github.com/IsmayelAlam)
 
-##### Libraries and Framework:
+#### Libraries and Framework:
 
 [![My Skills](https://skillicons.dev/icons?i=threejs,next,react,nodejs,expressjs,mongodb,sass,tailwind)](https://github.com/IsmayelAlam)
 
-##### Softwares:
+#### Softwares:
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,docker,blender,vscode,supabase,firebase,linux)](https://github.com/IsmayelAlam)
 
