@@ -26,9 +26,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,docker,blender,vscode,supabase,firebase,linux)](https://github.com/IsmayelAlam)
 
----
 
-<p align="center" style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; width:100%; gap: 5px">
+
+
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismayelalam&theme=nightowl&show_icons=true&hide_border=false&layout=compact" style="width: 350px"/> -->
 <!--     <img src="https://streak-stats.demolab.com/?user=ismayelalam&theme=nightowl&hide_border=false" style="width: 490px"/> -->
-</p>
+
