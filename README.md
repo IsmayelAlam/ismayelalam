@@ -8,8 +8,6 @@
 
 ### Check out my portfolio at [ Ismayel Alam](http://ismayelalam.com)
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ismayelalam) [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/__ismayelalam__/)
-
 ---
 
 ## My Skills
