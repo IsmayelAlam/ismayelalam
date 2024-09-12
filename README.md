@@ -14,7 +14,7 @@
 
 #### Core
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,rust)](https://github.com/IsmayelAlam)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://github.com/IsmayelAlam)
 
 #### Libraries and Framework:
 
