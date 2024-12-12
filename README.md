@@ -3,7 +3,7 @@
 **Passionate freelance full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!**
 
 - 🔭 I’m currently working as a full-stack web developer at a Swedish startup
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go**
 - 📫 Reach me at **ismayelalam0@gmail.com**
 
 ### Check out my portfolio at [ Ismayel Alam](http://ismayelalam.com)
@@ -14,7 +14,7 @@
 
 #### Core
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://github.com/IsmayelAlam)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css)](https://github.com/IsmayelAlam)
 
 #### Libraries and Framework:
 
