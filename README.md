@@ -14,11 +14,11 @@
 
 #### Core
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css)](https://github.com/IsmayelAlam)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css,mongodb,postgres)](https://github.com/IsmayelAlam)
 
 #### Libraries and Framework:
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,svelte,nodejs,expressjs,mongodb,postgres,threejs,sass,tailwind)](https://github.com/IsmayelAlam)
+[![My Skills](https://skillicons.dev/icons?i=next,react,svelte,nodejs,expressjs,threejs,sass,tailwind)](https://github.com/IsmayelAlam)
 
 #### Softwares:
 
