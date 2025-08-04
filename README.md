@@ -14,7 +14,7 @@
 
 #### Core
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css,mongodb,postgres)](https://github.com/IsmayelAlam)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css,mongodb,postgres,linux)](https://github.com/IsmayelAlam)
 
 #### Libraries and Framework:
 
@@ -22,7 +22,7 @@
 
 #### Softwares:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,docker,blender,vscode,supabase,firebase,linux)](https://github.com/IsmayelAlam)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,docker,blender,vscode,supabase,firebase,arch)](https://github.com/IsmayelAlam)
 
 
 
