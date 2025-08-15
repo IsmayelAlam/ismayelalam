@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismayel Alam</h1>
 
-**Passionate freelance full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!**
+**Passionate full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!**
 
 - 🔭 I’m currently working as a full-stack web developer at a Swedish startup
 - 🌱 I’m currently learning **Go**
