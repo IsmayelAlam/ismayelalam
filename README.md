@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQESf9x7icksfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704339685593?e=1758153600&v=beta&t=Lnu7m53IuFYVWqPHKpgp4KJ2PdaPv-PuM-A3SehJqpE"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQESf9x7icksfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704339685593?e=1758153600&v=beta&t=Lnu7m53IuFYVWqPHKpgp4KJ2PdaPv-PuM-A3SehJqpE" style="border-radius: 10px"/>
 
 <h1 align="center">Hi 👋, I'm Ismayel Alam</h1>
 
