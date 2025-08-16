@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQESf9x7icksfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704339685593?e=1758153600&v=beta&t=Lnu7m53IuFYVWqPHKpgp4KJ2PdaPv-PuM-A3SehJqpE"/>
+
 <h1 align="center">Hi 👋, I'm Ismayel Alam</h1>
 
 **Passionate full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!**
