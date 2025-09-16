@@ -2,15 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
 
-
-
 <h1 align="center">Hi 👋, I'm Ismayel Alam</h1>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ismayelalam.ismayelalam&"  />
-</div>
 
 ###
 
