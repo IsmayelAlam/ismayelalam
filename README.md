@@ -9,7 +9,7 @@
 **Passionate full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!**
 
 - 🔭 I’m currently working as a full-stack web developer at a Swedish startup
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **C**
 - 📫 Reach me at **ismayelalam0@gmail.com**
 
 ### Check out my portfolio at [ Ismayel Alam](http://ismayelalam.com)
